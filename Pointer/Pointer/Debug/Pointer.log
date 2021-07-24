@@ -1,0 +1,12 @@
+﻿  Pointer.cpp
+C:\KhaLe\CodeWars\OOP-Summary\Pointer\Pointer\Pointer.cpp(72,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\KhaLe\CodeWars\OOP-Summary\Pointer\Pointer\Pointer.cpp(73,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\KhaLe\CodeWars\OOP-Summary\Pointer\Pointer\Pointer.cpp(74,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\KhaLe\CodeWars\OOP-Summary\Pointer\Pointer\Pointer.cpp(75,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\KhaLe\CodeWars\OOP-Summary\Pointer\Pointer\Pointer.cpp(76,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\KhaLe\CodeWars\OOP-Summary\Pointer\Pointer\Pointer.cpp(88,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\KhaLe\CodeWars\OOP-Summary\Pointer\Pointer\Pointer.cpp(89,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\KhaLe\CodeWars\OOP-Summary\Pointer\Pointer\Pointer.cpp(90,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\KhaLe\CodeWars\OOP-Summary\Pointer\Pointer\Pointer.cpp(91,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\KhaLe\CodeWars\OOP-Summary\Pointer\Pointer\Pointer.cpp(92,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  Pointer.vcxproj -> C:\KhaLe\CodeWars\OOP-Summary\Pointer\Debug\Pointer.exe
