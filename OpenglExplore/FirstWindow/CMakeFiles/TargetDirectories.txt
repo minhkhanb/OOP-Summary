@@ -1,0 +1,3 @@
+C:/KhaLe/CodeWars/OOP-Summary/OpenglExplore/FirstWindow/CMakeFiles/FirstWindow.dir
+C:/KhaLe/CodeWars/OOP-Summary/OpenglExplore/FirstWindow/CMakeFiles/edit_cache.dir
+C:/KhaLe/CodeWars/OOP-Summary/OpenglExplore/FirstWindow/CMakeFiles/rebuild_cache.dir
