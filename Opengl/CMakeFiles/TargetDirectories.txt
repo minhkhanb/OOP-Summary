@@ -1,0 +1,3 @@
+C:/KhaLe/CodeWars/OOP-Summary/Opengl/CMakeFiles/CoHangXom3D.dir
+C:/KhaLe/CodeWars/OOP-Summary/Opengl/CMakeFiles/edit_cache.dir
+C:/KhaLe/CodeWars/OOP-Summary/Opengl/CMakeFiles/rebuild_cache.dir
