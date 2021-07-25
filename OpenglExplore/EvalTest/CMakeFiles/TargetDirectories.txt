@@ -1,0 +1,3 @@
+C:/KhaLe/CodeWars/OOP-Summary/OpenglExplore/EvalTest/CMakeFiles/EvalTest.dir
+C:/KhaLe/CodeWars/OOP-Summary/OpenglExplore/EvalTest/CMakeFiles/edit_cache.dir
+C:/KhaLe/CodeWars/OOP-Summary/OpenglExplore/EvalTest/CMakeFiles/rebuild_cache.dir
